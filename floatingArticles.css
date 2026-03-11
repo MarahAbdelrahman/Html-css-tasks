@@ -1,0 +1,30 @@
+body {
+    background: rgb(241, 241, 211);
+}
+
+.boxofAll {
+    width: 900px;
+    margin: auto;
+}
+
+.article {
+    background: gainsboro;
+    padding: 10px;
+    margin: 10px;
+    width: 27%;
+    float: left;
+}
+
+.article-wide {
+    background: rgb(241, 241, 211);
+    padding: 10px;
+    margin: 10px;
+    width: 94%;
+    height: 60px;
+    overflow: scroll;
+    float: left
+}
+
+.clear {
+    clear: both;
+}
